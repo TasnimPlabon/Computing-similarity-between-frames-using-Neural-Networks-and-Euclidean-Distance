@@ -1,1 +1,1 @@
-# TasnimPlabon-cse499A_project_sec7
+# Computing similarity between frames using Neural Networks and Euclidean Distance
